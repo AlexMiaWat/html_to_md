@@ -2,7 +2,6 @@
 /debug.log
 /direct_test.md
 /example.md
-/example_com_raw.html
 /example_com_result.md
 /example_test.md
 /fmprc.md
@@ -22,8 +21,6 @@
 /test_debug.py
 /test_div_h1.py
 /test_exact_html.py
-/test_file.html
-/test_html2md_scripts.py
 /test_real_example.py
 /test_real_html.py
 /test_result.md
